@@ -1,0 +1,12 @@
+C:\Users\jcdane02\Documents\Visual Studio 2012\Projects\Prog1B\Prog1A\obj\x86\Debug\Prog1.exe
+C:\Users\jcdane02\Documents\Visual Studio 2012\Projects\Prog1B\Prog1A\obj\x86\Debug\Prog1.pdb
+C:\Users\jcdane02\Documents\Visual Studio 2012\Projects\Prog1B\Prog1A\bin\Debug\Prog1.exe
+C:\Users\jcdane02\Documents\Visual Studio 2012\Projects\Prog1B\Prog1A\bin\Debug\Prog1.pdb
+C:\Users\jcdane02\Documents\Visual Studio 2012\Projects\Prog1B\Prog1A\obj\x86\Debug\Prog1B.csprojResolveAssemblyReference.cache
+C:\Users\jefauc01\Desktop\Prog1B\Prog1B\Prog1A\obj\x86\Debug\Prog1.exe
+C:\Users\jefauc01\Desktop\Prog1B\Prog1B\Prog1A\obj\x86\Debug\Prog1.pdb
+C:\Users\jefauc01\Desktop\Prog1B\Prog1B\Prog1A\bin\Debug\Prog1.exe
+C:\Users\jefauc01\Desktop\Prog1B\Prog1B\Prog1A\bin\Debug\Prog1.pdb
+C:\Users\jefauc01\Desktop\Prog1B\Prog1B\Prog1A\obj\x86\Debug\Prog1B.csprojResolveAssemblyReference.cache
+C:\Users\jefauc01\Desktop\CIS 200\Prog1B\Prog1B\Prog1A\obj\x86\Debug\Prog1.exe
+C:\Users\jefauc01\Desktop\CIS 200\Prog1B\Prog1B\Prog1A\obj\x86\Debug\Prog1.pdb
